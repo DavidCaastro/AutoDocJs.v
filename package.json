@@ -1,0 +1,21 @@
+{
+  "name": "react-documentation-generator",
+  "version": "1.0.0",
+  "description": "A tool to analyze and automatically generate documentation for JavaScript/React projects.",
+  "main": "updateDocumentation.js",
+  "scripts": {
+    "start": "node updateDocumentation.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/react-documentation-generator.git"
+  },
+  "keywords": ["documentation", "jsdoc", "react", "openai"],
+  "author": "Your Name",
+  "license": "MIT"
+}
